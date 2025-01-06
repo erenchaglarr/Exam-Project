@@ -1,0 +1,4 @@
+
+
+## Andelstabel med mængde datasæt som model er trænet på i mod modelens kompleksitet
+## Linear regressionsanalyse.

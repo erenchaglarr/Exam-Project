@@ -1,4 +1,13 @@
 
+### Dag 1 Noter
+
+Alt er nu planlagt, der blev fundet de relevante materiale. Der skal ses på de relevenate værktøjer.
 
 ## Andelstabel med mængde datasæt som model er trænet på i mod modelens kompleksitet
 ## Linear regressionsanalyse.
+
+### Dag 2 Noter
+
+
+
+

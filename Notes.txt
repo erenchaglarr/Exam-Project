@@ -17,6 +17,10 @@ Skal man starte med at skrive koden eller fokusere på teorien?
 
 Vi vil gerne lave det med pytorch.
 
+Hvordan få vi dataen læst ind?
+
+
+Gå igennem 
 
 ### Dag 3 Noter
 

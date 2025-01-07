@@ -9,5 +9,11 @@ Alt er nu planlagt, der blev fundet de relevante materiale. Der skal ses på de 
 ### Dag 2 Noter
 
 
+Der skal tales med Mikkel. Hvad skal vi spørge om ? 
+
+Convolutional Neural Network **
+Stochastic Gradient Descent
+
+
 
 

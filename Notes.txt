@@ -15,6 +15,8 @@ Convolutional Neural Network **
 Stochastic Gradient Descent **
 Skal man starte med at skrive koden eller fokusere på teorien?
 
+Vi vil gerne lave det med pytorch.
 
 
+### Dag 3 Noter
 

@@ -21,7 +21,7 @@ Hvordan få vi dataen læst ind?
 
 ### Det Mikkel sagde
 
-Være sikker på hvor lang tid det tager at træne modellen
+Være sikker på hvor lang tid det tager at træne modellen(Ikke så lang tid)
 Find noget der gør det komplicerede (et twist)
 Graf for konfidensintervaller for kompleksitet 
 Lave flere filer med flere modeller

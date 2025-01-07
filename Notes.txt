@@ -19,8 +19,13 @@ Vi vil gerne lave det med pytorch.
 
 Hvordan få vi dataen læst ind?
 
+### Det Mikkel sagde
 
-Gå igennem 
+Være sikker på hvor lang tid det tager at træne modellen
+Find noget der gør det komplicerede (et twist)
+Graf for konfidensintervaller for kompleksitet 
+Lave flere filer med flere modeller
+Få styr på selve ideen, både den teoretiske og kode delen
 
 ### Dag 3 Noter
 

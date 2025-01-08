@@ -31,3 +31,13 @@ Få styr på selve ideen, både den teoretiske og kode delen
 
 Vi kiggede på koden og prøvede at forstå hvad der foregår.
 
+Dropout layers: 
+
+Det gør modellen til at mere robust og den generalisereaber funktioner dvs, den reducere modellens afhængighed af specifikke neuroner.
+Den tvinger modellen til at gennemgå de andre neuoner også i stedet for dem der er for dominerende.
+
+
+Spørgsmål til i morgen ? 
+
+Hvordan fungerer argumenterne i koden for conv2d?
+Hvorfor bruger man dropout layers?

@@ -29,3 +29,5 @@ Få styr på selve ideen, både den teoretiske og kode delen
 
 ### Dag 3 Noter
 
+Vi kiggede på koden og prøvede at forstå hvad der foregår.
+
